@@ -33,7 +33,7 @@ I enjoy solving complex problems with clean architecture, guiding engineering te
 
 <!-- Most Used Languages -->
 <a href="https://github.com/edu777art">
-  <img src="https://vercelstats-self.vercel.app/api/top-langs/?username=edu777art&layout=compact&hide=jupyter%20notebook,html&langs_count=8" height="180"/>
+  <img src="https://vercelstats-self.vercel.app/api/top-langs/?username=edu777art&count_private=true&layout=compact&theme=github_dark" height="180"/>
 </a>
 
 <!-- GitHub Activity Graph -->
