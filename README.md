@@ -27,7 +27,7 @@ I enjoy solving complex problems with clean architecture, guiding engineering te
 </a>
 
 <!-- Most Used Languages -->
-<a href="https://github.com/eduardogrijalva">
+<a href="https://github.com/edu777art">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu777art&layout=compact&hide=jupyter%20notebook,html&langs_count=8" height="180"/>
 </a>
 
