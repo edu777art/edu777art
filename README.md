@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eduardo Grijalva
 
-I'm a **Senior Software Engineer** and **Software Architect** with 10+ years of experience designing, building, and scaling distributed systems, cloud-native applications, and secure APIs. I work across the stack—specializing in Java (8–21), Node.js/NestJS, React, GCP, AWS, and high-impact DevOps pipelines using Terraform, Docker, and GitHub Actions.
+I'm a **Senior Software Engineer** and **Software Architect** with 12+ years of experience designing, building, and scaling distributed systems, cloud-native applications, and secure APIs. I work across the stack—specializing in Java (8–21), Node.js/NestJS, React, GCP, AWS, and high-impact DevOps pipelines using Terraform, Docker, and GitHub Actions.
 
 I enjoy solving complex problems with clean architecture, guiding engineering teams, and designing resilient and scalable solutions that drive business outcomes.
 
@@ -33,7 +33,7 @@ I enjoy solving complex problems with clean architecture, guiding engineering te
 
 <!-- Most Used Languages -->
 <a href="https://github.com/edu777art">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu777art&layout=compact&hide=jupyter%20notebook,html&langs_count=8" height="180"/>
+  <img src="https://vercelstats-nq77opt69-edu777arts-projects.vercel.app/api/top-langs/?username=edu777art&layout=compact&hide=jupyter%20notebook,html&langs_count=8" height="180"/>
 </a>
 
 <!-- GitHub Activity Graph -->
