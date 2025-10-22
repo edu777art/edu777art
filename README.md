@@ -21,15 +21,6 @@ I enjoy solving complex problems with clean architecture, guiding engineering te
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<a href="https://github.com/edu777art">
-  <img src="https://github-readme-stats.vercel.app/api?username=edu777art&show_icons=true&theme=github_dark&hide_rank=true&include_all_commits=true&count_private=true" height="180"/>
-</a>
-
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/edu777art">
-  <img src="https://streak-stats.demolab.com/?user=edu777art&theme=github-dark&hide_border=false" height="180" />
-</a>
 
 <!-- Most Used Languages -->
 <a href="https://github.com/edu777art">
