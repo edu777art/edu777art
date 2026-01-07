@@ -23,7 +23,7 @@ I enjoy solving complex problems with clean architecture, guiding engineering te
 
 <!-- Most Used Languages -->
 <a href="https://github.com/edu777art">
-  <img src="https://vercelstats-self.vercel.app/api/top-langs?username=edu777art&count_private=true&include_all_commits=true&layout=compact&theme=github_dark&size_weight=0.5&count_weight=0.5" height="180"/>
+  <img src="https://vercelstats-self.vercel.app/api/top-langs?username=edu777art&count_private=true&include_all_commits=true&layout=compact&theme=github_dark&langs_count=10&hide=html,css,json,jupyter%20notebook&size_weight=0.5&count_weight=0.5" height="180"/>
 </a>
 
 <!-- GitHub Activity Graph -->
